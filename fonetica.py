@@ -52,6 +52,7 @@ def fonerica(frase):
         "i": "",
         "o": "",
         "u": "",
+        "h": "",
     }
 
     for key, value in xx.items():
